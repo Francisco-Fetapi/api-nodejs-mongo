@@ -1,6 +1,12 @@
 # CRUD de Tarefas/Projetos - API
 
-🚀 _Criado para fins de estudo_
+<p align="center">
+<a href="https://github.com/Francisco-Fetapi/api-nodejs-mongo/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Francisco-Fetapi/api-nodejs-mongo?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/api-nodejs-mongo"><img alt="GitHub license" src="https://img.shields.io/badge/Exercise-For%20trainning-orange"></a>
+<a href="https://github.com/Francisco-Fetapi/api-nodejs-mongo/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Francisco-Fetapi/api-nodejs-mongo?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/api-nodejs-mongo/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Francisco-Fetapi/api-nodejs-mongo?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/api-nodejs-mongo"><img alt="GitHub license" src="https://img.shields.io/github/license/Francisco-Fetapi/api-nodejs-mongo?style=plastic"></a>
+</p>
 
 Projeto criado seguindo a playlist [API - NodeJS + Express + Mongo da **Rocketseat**](https://www.youtube.com/watch?v=BN_8bCfVp88&list=PLUXy0s85E0_hWQqCtzcPLbMITnSQfRVXj) para consolidar os conhecimentos em **Node.js** e **Mongo.db**.
 
